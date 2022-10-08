@@ -385,6 +385,8 @@ https://github.com/Tencent/APIJSON/blob/master/CONTRIBUTING.md <br />
   <a href="https://github.com/Tencent/APIJSON/pull/325"><img src="https://avatars.githubusercontent.com/u/33931153?v=4"  height="54" width="54" ></a>
 </div>
 <br />
+
+*[爱投斯智能技术（深圳）有限公司（IOTOS）]（https://www.aiotos.net）
 	
 Authors of other projects for ecosystem of APIJSON(2 Tencent engineers, 1 BAT(Baidu/Alibaba/Tencent) specialist, 1 Bytedance(TikTok) engineer, etc.): <br />
 https://github.com/search?o=desc&q=apijson&s=stars&type=Repositories <br />
